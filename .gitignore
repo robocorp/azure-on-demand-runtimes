@@ -1,0 +1,9 @@
+node_modules
+serverless/.serverless/cloudformation-template-create-stack.json
+serverless/.serverless/cloudformation-template-update-stack.json
+serverless/.serverless/rcr-custom-clusters.zip
+serverless/.serverless/serverless-state.json
+infra/.terraform
+infra/terraform.tfstate*
+**/dist
+
